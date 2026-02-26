@@ -1,3 +1,3 @@
 <?php
-
-echo 'hello, nahuy asdasdgit';
+$text = 'hello, nahuy asdasdgit';
+echo $text;
